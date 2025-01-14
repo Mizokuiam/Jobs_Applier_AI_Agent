@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/Mizokuiam/Jobs_Applier_AI_Agent)
+![GitHub forks](https://img.shields.io/github/forks/Mizokuiam/Jobs_Applier_AI_Agent)
+![GitHub issues](https://img.shields.io/github/issues/Mizokuiam/Jobs_Applier_AI_Agent)
+![GitHub license](https://img.shields.io/github/license/Mizokuiam/Jobs_Applier_AI_Agent)
+
 <a name="top"></a>
 <div align="center">
 <img src="./assets/AIHawk.png">
